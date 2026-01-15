@@ -1,0 +1,12 @@
+
+[
+  {
+    "id": "dlg_admin_01",
+    "name": "System Administrator",
+    "email": "admin@go-service.pl",
+    "password": "quantum_safe_pass",
+    "dlgId": "DLG-ADM-0001",
+    "tier": "Paranoia",
+    "authProvider": "quantum-direct"
+  }
+]
